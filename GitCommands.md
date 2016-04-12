@@ -19,7 +19,7 @@ Pushes the changes in your local repository up to the remote repository you spec
 
 ## GIT Clone 
 
-1. git clone <<repository URL>>
+1. git clone {repository URL}
 
 2. cd <new repo folder>
 
