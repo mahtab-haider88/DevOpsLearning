@@ -34,3 +34,7 @@ Pushes the changes in your local repository up to the remote repository you spec
 4. git commit -m 'First commit'
 
 5. git push
+
+## GIT Pull
+
+1. git pull
