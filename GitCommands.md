@@ -4,10 +4,10 @@
 1. git init
 
 2. git add .
-Adds the files in the local repository and stages them for commit
+  Adds the files in the local repository and stages them for commit
 
 3. git commit -m 'First commit'
-Commits the tracked changes and prepares them to be pushed to a remote repository
+  Commits the tracked changes and prepares them to be pushed to a remote repository
 
 4. git remote add origin <remote repository URL>
 Sets the new remote
