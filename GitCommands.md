@@ -21,7 +21,7 @@ Pushes the changes in your local repository up to the remote repository you spec
 
 1. git clone {repository URL}
 
-2. cd <new repo folder>
+2. cd {New repo folder}
 
 3. git add .
 
